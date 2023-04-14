@@ -204,7 +204,7 @@ img {
 
 .boxes3 {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   margin: 80px 130px;
 }
 .section3-box {
